@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Dice</string>
+    <string name="app_name">Кости</string>
+    <string name="thrown">Бросить кости</string>
 </resources>
